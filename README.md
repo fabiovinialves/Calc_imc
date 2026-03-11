@@ -2,6 +2,7 @@
 
 Projeto de **calculadora online** desenvolvido com **HTML5**, **CSS3** e **JavaScript (Vanilla JS)**.  
 A aplicação permite realizar operações matemáticas básicas em uma interface simples, responsiva e com visual moderno (incluindo imagem de fundo).
+Com fins para calcular IMC (Índice de Massa Corporal).
 
 <img width="1873" height="955" alt="Calc" src="https://github.com/user-attachments/assets/0d91dacf-6352-4278-8db0-6b0804f3e4aa" />
 
